@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(31, 28, 28);
+}
+
+.titles{
+    display: flex;
+    justify-content: center;
+    color: rgb(32, 87, 225);
+}
